@@ -1,5 +1,10 @@
 package controlador;
 
+/**
+ * @deprecated No se utiliza.
+ * @author nahuel
+ *
+ */
 public class HiloMain extends Thread {
 
 	boolean terminarHilo;
